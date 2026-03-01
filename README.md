@@ -1,9 +1,9 @@
-# Customer Shopping Behavior Analysis (Python + MySQL + Power BI Dashboard)
+# 🛍️ Customer Shopping Behavior Analysis (Python + MySQL + Power BI Dashboard)
 
-## Project Overview
+## 📌 Project Overview
 This project analyzes customer shopping behavior data to uncover purchasing trends, customer segments, revenue distribution, and subscription impact.
 
-## The workflow includes:
+## 🔥 The workflow includes:
 
 - Data Cleaning & Feature Engineering using Python
 - Database Storage using MySQL
@@ -11,7 +11,7 @@ This project analyzes customer shopping behavior data to uncover purchasing tren
 - Interactive Dashboard Creation using Power BI
 - This project simulates a real-world retail analytics pipeline.
 
-## Project Architecture
+## 🏗️ Project Architecture
 CSV Dataset 
 
 ⬇
@@ -30,7 +30,7 @@ SQL Analysis
 
 Power BI Dashboard
 
-## Data Preparation (Python)
+## 🧹 Data Preparation (Python)
 - Handled missing review ratings using median imputation
 - Standardized column names
 - Created age_group feature
@@ -38,7 +38,7 @@ Power BI Dashboard
 - Removed redundant columns
 - Uploaded cleaned data into MySQL
 
-## SQL Analysis Performed
+## 📊 SQL Analysis Performed
 The following business questions were answered using SQL:
 
 🔹 Revenue Analysis
@@ -59,7 +59,7 @@ The following business questions were answered using SQL:
 🔹 Operational Analysis
 - Average purchase comparison: Standard vs Express shipping
 
-## Power BI Dashboard
+## 📈 Power BI Dashboard
 An interactive dashboard was created using Power BI to visualize:
 - Revenue by Category
 - Sales by Category
